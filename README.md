@@ -28,7 +28,7 @@
 I'm a **Computer Science & Engineering graduate** passionate about building practical software solutions and exploring the intersection of **Full-Stack Development, Artificial Intelligence, and Research**.
 
 - 🎓 CSE Graduate — **United International University**
-- 🎓 Mjor -- Data Science
+- 🎓 Major - Data Science
 - 💻 Full-Stack Developer — MERN / PERN
 - 🤖 AI, Machine Learning & Deep Learning Enthusiast
 - 🧠 Generative AI, LLMs & Retrieval-Augmented Generation
