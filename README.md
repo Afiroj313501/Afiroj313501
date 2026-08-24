@@ -1,27 +1,25 @@
 # 👋 Hi, I'm Abdullah Firoj
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&color=36BCF7&center=true&vCenter=true&width=800&lines=Software+Developer+%F0%9F%92%BB;Full-Stack+Developer+%F0%9F%9A%80;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;RAG+%26+Generative+AI+Builder+%F0%9F%A7%A0;AI+Researcher+%F0%9F%94%AC;Always+Learning.+Always+Building." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1200&color=36BCF7&center=true&vCenter=true&width=800&lines=Software+Developer+%F0%9F%92%BB;Full-Stack+Developer+%F0%9F%9A%80;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Generative+AI+%26+RAG+Developer+%F0%9F%A7%A0;AI+Researcher+%F0%9F%94%AC;Building+Real-World+Solutions+%E2%9C%A8;Always+Learning.+Always+Building." />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Afiroj313501&label=Profile%20Views&color=36BCF7&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Afiroj313501?label=Followers&style=for-the-badge&color=8B5CF6" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Afiroj313501">
-    <img src="https://komarev.com/ghpvc/?username=Afiroj313501&label=PROFILE+VIEWS&color=36BCF7&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/GitHub-Afiroj313501-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://github.com/Afiroj313501?tab=followers">
-    <img src="https://img.shields.io/github/followers/Afiroj313501?label=FOLLOWERS&style=for-the-badge&color=8B5CF6" />
-  </a>
-</p>
 
-<p align="center">
-  <a href="https://github.com/Afiroj313501">
-    <img src="https://img.shields.io/badge/GitHub-Afiroj313501-181717?style=for-the-badge&logo=github" />
-  </a>
   <a href="https://www.linkedin.com/in/abdullah-firoj-900697375">
-    <img src="https://img.shields.io/badge/LinkedIn-Abdullah%20Firoj-0A66C2?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Abdullah%20Firoj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="https://portfolio-firoj2.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-36BCF7?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
@@ -29,31 +27,30 @@
 
 ## 🚀 About Me
 
-I'm a **Computer Science & Engineering graduate** passionate about building practical software solutions at the intersection of **Full-Stack Development, Artificial Intelligence, and Research**.
+I'm a **Computer Science & Engineering graduate** passionate about building practical software solutions and exploring the intersection of **Full-Stack Development, Artificial Intelligence, and Research**.
 
-- 🎓 **CSE Graduate** — United International University
-- 🤖 Major - Data Science
+- 🎓 CSE Graduate — **United International University**
 - 💻 Full-Stack Developer — MERN / PERN
-- 🤖 AI, Machine Learning & Deep Learning
-- 🧠 Generative AI, RAG & LLM Applications
-- 🔬 Researching **Agentic AI, MCP & Sustainable Computing**
-- 🏗️ Building scalable and user-focused applications
-- 🚀 Always learning, experimenting, and building
+- 🤖 AI, Machine Learning & Deep Learning Enthusiast
+- 🧠 Generative AI, LLMs & Retrieval-Augmented Generation
+- 🔬 Researching **Agentic AI, Model Context Protocol (MCP) & Sustainable Computing**
+- 🏗️ Interested in scalable, intelligent and user-focused applications
+- 🚀 Always learning, experimenting and building real-world solutions
 
 ---
 
-# 🧰 Tech Stack
+# 🛠️ Tech Stack
 
-### 💻 Languages
+### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,c,cpp,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,c,cpp" />
 </p>
 
-### 🌐 Full-Stack Development
+### 🌐 Web Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,vite,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,vite,tailwind" />
 </p>
 
 ### 🤖 AI / Machine Learning
@@ -62,11 +59,11 @@ I'm a **Computer Science & Engineering graduate** passionate about building prac
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
 </p>
 
-**AI & ML:**  
-`Machine Learning` · `Deep Learning` · `CNN` · `ResNet3D` · `HuBERT` · `DINOv2` · `Computer Vision` · `NLP`
+**AI / ML:**  
+`Machine Learning` · `Deep Learning` · `CNN` · `ResNet3D` · `HuBERT` · `DINOv2` · `Computer Vision`
 
 **Generative AI:**  
-`Google Gemini` · `RAG` · `Embeddings` · `Vector Search` · `LLM Applications`
+`Google Gemini` · `LLMs` · `RAG` · `Embeddings` · `Semantic Search` · `Vector Search`
 
 ### 🗄️ Databases & Backend
 
@@ -79,7 +76,7 @@ I'm a **Computer Science & Engineering graduate** passionate about building prac
 ### 🛠️ Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,vercel,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,postman,vercel" />
 </p>
 
 ---
@@ -93,25 +90,26 @@ I'm a **Computer Science & Engineering graduate** passionate about building prac
 
 ## 🤖 AI Employee Onboarding Platform
 
-A full-stack **role-based employee onboarding platform** for Employees, Managers, and HR Admins.
+A full-stack **role-based employee onboarding platform** designed for Employees, Managers, and HR Admins.
 
-**Tech**
+### Tech
 
 `React` · `TypeScript` · `Node.js` · `Express` · `PostgreSQL` · `Prisma`
 
-**AI**
+### AI
 
-`Google Gemini` · `RAG` · `Embeddings` · `pgvector`
+`Google Gemini` · `RAG` · `Gemini Embeddings` · `pgvector`
 
-**Features**
+### Features
 
-- 👥 Role-based dashboards
+- 👥 Employee / Manager / HR Admin roles
 - 📋 AI-generated onboarding tasks
 - 📄 Intelligent document processing
 - 🧠 RAG-based document Q&A
 - 💬 AI onboarding assistant
-- 📊 HR analytics
+- 📊 HR analytics dashboard
 - 😊 AI feedback sentiment analysis
+- ⏳ Task extension & approval workflow
 - 🔐 JWT authentication
 
 </td>
@@ -122,15 +120,15 @@ A full-stack **role-based employee onboarding platform** for Employees, Managers
 
 An AI-powered **Learning Management System** built using the PERN stack.
 
-**Tech**
+### Tech
 
 `React` · `TypeScript` · `Node.js` · `Express` · `PostgreSQL` · `Prisma`
 
-**AI**
+### AI
 
 `Google Gemini` · `RAG`
 
-**Features**
+### Features
 
 - 👨‍🎓 Student / Instructor / Admin roles
 - 📚 Course & lesson management
@@ -153,19 +151,19 @@ An AI-powered **Learning Management System** built using the PERN stack.
 
 ## 🤖 Multimodal Deepfake Detection
 
-AI-powered system for detecting manipulated media through **audio + video analysis**.
+AI-powered system for detecting manipulated media using **audio + video analysis**.
 
-**Tech**
+### Tech
 
 `PyTorch` · `OpenCV` · `CNN` · `LSTM`
 
-**Results**
+### Results
 
-📈 **68.36% → 86.0% Accuracy**
+📈 **Accuracy: 68.36% → 86.0%**
 
 📊 **ROC-AUC: 0.723 → 0.88**
 
-**Focus**
+### Focus
 
 - 🎥 Video analysis
 - 🎙️ Audio analysis
@@ -179,18 +177,18 @@ AI-powered system for detecting manipulated media through **audio + video analys
 
 ## 🌱 CareerForge AI
 
-AI-powered career platform designed to help job seekers from **learning to getting hired**.
+An AI-powered career platform designed to help job seekers from **learning to getting hired**.
 
-**Features**
+### Features
 
 - 📄 AI Resume Builder
 - 🎯 ATS Score
 - 🤖 AI Interview Practice
 - 💻 Coding Assessments
-- 🗺️ Personalized Learning Roadmaps
-- 📚 Skill development
+- 🗺️ Learning Roadmaps
+- 📚 Skill Development
 
-**Focus**
+### Focus
 
 `Generative AI` · `Career Tech` · `Full-Stack Development`
 
@@ -206,16 +204,16 @@ AI-powered career platform designed to help job seekers from **learning to getti
 
 Desktop-based airline management application.
 
-**Tech**
+### Tech
 
 `Java` · `JavaFX` · `JDBC` · `MySQL`
 
-**Features**
+### Features
 
 - ✈️ Flight scheduling
 - 🎫 Ticket booking
 - 💺 Seat selection
-- 👤 Authentication
+- 👤 User authentication
 - 💳 Payment management
 - 🗄️ Database management
 
@@ -225,9 +223,9 @@ Desktop-based airline management application.
 
 ## 🏥 Extensive Medical Hub
 
-Centralized healthcare information platform.
+Centralized healthcare information platform providing real-time medical services.
 
-**Features**
+### Features
 
 - 🏥 Hospital information
 - 👨‍⚕️ Doctor availability
@@ -245,17 +243,45 @@ Centralized healthcare information platform.
 
 # 🧠 AI & Generative AI
 
-I'm particularly interested in building **practical AI applications**, rather than AI as a standalone technology.
+My current focus is building **practical AI-powered applications** that solve real-world problems.
 
-### Current AI Interests
+### 🔥 Areas of Interest
 
 ```text
 Generative AI
       ↓
 Large Language Models
       ↓
-RAG & Embeddings
+Embeddings & Vector Search
       ↓
-Vector Search
+Retrieval-Augmented Generation
       ↓
 AI-Powered Applications
+
+🏆 Achievements
+<p align="center"> <img src="https://img.shields.io/badge/JSC-GPA%205-36BCF7?style=for-the-badge" /> <img src="https://img.shields.io/badge/SSC-GPA%205-8B5CF6?style=for-the-badge" /> <img src="https://img.shields.io/badge/HSC-GPA%205-22C55E?style=for-the-badge" /> <img src="https://img.shields.io/badge/System%20Analysis-1st%20Runner--Up-F59E0B?style=for-the-badge" /> </p>
+🥇 1st Runner-Up — System Analysis & Design
+🧮 Vice President — Math Club
+🎓 GPA 5 — JSC
+🎓 GPA 5 — SSC
+🎓 GPA 5 — HSC
+📊 GitHub Analytics
+<p align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=Afiroj313501&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" /> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afiroj313501&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" /> </p>
+🔥 Contribution Streak
+<p align="center"> <img src="https://streak-stats.demolab.com?user=Afiroj313501&theme=tokyonight&hide_border=true&border_radius=10" /> </p>
+🏆 GitHub Trophies
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Afiroj313501&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=6" /> </p>
+📈 Contribution Activity
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Afiroj313501&theme=tokyo-night&hide_border=true" /> </p>
+📌 Featured Repositories
+<p align="center"> <a href="https://github.com/Afiroj313501"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Afiroj313501&repo=lumenlearner&theme=tokyonight&hide_border=true" /> </a> <a href="https://github.com/Afiroj313501"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Afiroj313501&repo=onboarding-platform&theme=tokyonight&hide_border=true" /> </a> </p>
+🌐 Let's Connect
+<p align="center"> <a href="https://www.linkedin.com/in/abdullah-firoj-900697375"> <img src="https://img.shields.io/badge/LinkedIn-Abdullah%20Firoj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/Afiroj313501"> <img src="https://img.shields.io/badge/GitHub-Afiroj313501-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://portfolio-firoj2.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-36BCF7?style=for-the-badge&logo=vercel&logoColor=white"/> </a> </p>
+<p align="center">
+💡 Building today. Learning every day. Creating for tomorrow.
+
+Software • AI • Research • Innovation
+
+<i>Thanks for visiting my profile! ⭐</i>
+
+</p> ```
