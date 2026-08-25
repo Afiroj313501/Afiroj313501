@@ -94,7 +94,7 @@ A full-stack **role-based employee onboarding platform** designed for Employees,
 **Tech:** `React` · `TypeScript` · `Node.js` · `Express` · `PostgreSQL` · `Prisma`
 
 **AI:** `Google Gemini` · `RAG` · `Gemini Embeddings` · `pgvector`
-
+***LIVE *** https://onboarding-platform-xi.vercel.app/
 **Features:**
 - 👥 Employee / Manager / HR Admin roles
 - 📋 AI-generated onboarding tasks
