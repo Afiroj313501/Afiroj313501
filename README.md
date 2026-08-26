@@ -1,17 +1,21 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    ABDULLAH FIROJ PROFILE                       -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+Yes. Here is **the complete `README.md` in one block**, with your existing sections preserved and the new attractive sections added. I also corrected **CSE Graduate** and cleaned up the live project formatting.
+
+Just copy everything inside the block and paste it into your GitHub profile `README.md`.
+
+# 👋 Hi, I'm Abdullah Firoj
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,50:8B5CF6,100:22C55E&height=230&section=header&text=Abdullah%20Firoj&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20%7C%20AI%20%26%20Research&descAlignY=58&descSize=18" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=850&lines=Software+Developer+%F0%9F%92%BB;Full-Stack+Developer+%F0%9F%9A%80;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Generative+AI+%26+RAG+Developer+%F0%9F%A7%A0;AI+Researcher+%F0%9F%94%AC;Building+Real-World+Solutions+%E2%9C%A8;Always+Learning.+Always+Building." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1200&color=36BCF7&center=true&vCenter=true&width=850&lines=Software+Developer+%F0%9F%92%BB;Full-Stack+Developer+%F0%9F%9A%80;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Generative+AI+%26+RAG+Developer+%F0%9F%A7%A0;AI+Researcher+%F0%9F%94%AC;Building+Real-World+Solutions+%E2%9C%A8;Always+Learning.+Always+Building." />
 </p>
 
 <p align="center">
   <b>Software Developer • Full-Stack Developer • AI/ML Engineer • Generative AI Enthusiast • Researcher</b>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Afiroj313501&label=Profile%20Views&color=36BCF7&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Afiroj313501?label=Followers&style=for-the-badge&color=8B5CF6" />
+  <img src="https://img.shields.io/github/stars/Afiroj313501?label=Total%20Stars&style=for-the-badge&color=F59E0B" />
 </p>
 
 <p align="center">
@@ -26,34 +30,28 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Afiroj313501&label=Profile%20Views&color=36BCF7&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Afiroj313501?label=Followers&style=for-the-badge&color=8B5CF6" />
-  <img src="https://img.shields.io/github/stars/Afiroj313501?label=Total%20Stars&style=for-the-badge&color=F59E0B" />
-</p>
-
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
 I'm a **Computer Science & Engineering graduate** passionate about building practical software systems and exploring the intersection of **Full-Stack Development, Artificial Intelligence, Generative AI, and Research**.
 
 I enjoy turning ideas into real-world applications — from scalable web platforms and AI assistants to multimodal deepfake detection and intelligent learning systems.
 
-- 🎓 **B.Sc. in Computer Science & Engineering** — United International University
-- 🎓 **Major:** Data Science
-- 💻 Full-Stack Developer — **MERN / PERN**
-- 🤖 AI, Machine Learning & Deep Learning Enthusiast
-- 🧠 Generative AI, LLMs & Retrieval-Augmented Generation
-- 🔎 Interested in **Agentic AI & intelligent systems**
-- 🔬 Researching **Model Context Protocol (MCP), Agentic AI & Sustainable Computing**
-- 👁️ Exploring **Computer Vision & Multimodal AI**
-- 🏗️ Interested in scalable, intelligent and user-focused applications
-- 🚀 Always learning, experimenting and building real-world solutions
+* 🎓 **B.Sc. in Computer Science & Engineering** — United International University
+* 🎓 **Major:** Data Science
+* 💻 Full-Stack Developer — **MERN / PERN**
+* 🤖 AI, Machine Learning & Deep Learning Enthusiast
+* 🧠 Generative AI, LLMs & Retrieval-Augmented Generation
+* 🔎 Interested in **Agentic AI & intelligent systems**
+* 🔬 Researching **Model Context Protocol (MCP), Agentic AI & Sustainable Computing**
+* 👁️ Exploring **Computer Vision & Multimodal AI**
+* 🏗️ Interested in scalable, intelligent and user-focused applications
+* 🚀 Always learning, experimenting and building real-world solutions
 
 ---
 
-# 🎯 Current Focus
+## 🎯 Current Focus
 
 <p align="center">
 
@@ -68,11 +66,10 @@ I enjoy turning ideas into real-world applications — from scalable web platfor
 
 ---
 
-# 🧠 What I Build
+## 🧠 What I Build
 
 <table>
 <tr>
-
 <td align="center" width="25%">
 
 ### 🤖 AI Applications
@@ -104,41 +101,40 @@ Scalable MERN/PERN applications, REST APIs and secure backend systems.
 Agentic AI, MCP, multimodal AI, deepfake detection and sustainable computing.
 
 </td>
-
 </tr>
 </table>
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-## 💻 Programming Languages
+### 💻 Programming Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,js,ts,c,cpp" />
 </p>
 
-## 🌐 Web Development
+### 🌐 Web Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,vite,tailwind" />
 </p>
 
-## 🤖 AI / Machine Learning
+### 🤖 AI / Machine Learning
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
 </p>
 
-**AI / ML**
+**AI / ML:**
 
 `Machine Learning` · `Deep Learning` · `CNN` · `ResNet3D` · `HuBERT` · `DINOv2` · `Computer Vision`
 
-**Generative AI**
+**Generative AI:**
 
 `Google Gemini` · `LLMs` · `RAG` · `Embeddings` · `Semantic Search` · `Vector Search`
 
-## 🗄️ Databases & Backend
+### 🗄️ Databases & Backend
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,prisma" />
@@ -146,7 +142,7 @@ Agentic AI, MCP, multimodal AI, deepfake detection and sustainable computing.
 
 `PostgreSQL` · `MongoDB` · `MySQL` · `Prisma` · `REST APIs` · `JWT Authentication`
 
-## 🛠️ Tools & Platforms
+### 🛠️ Tools & Platforms
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,postman,vercel" />
@@ -154,7 +150,7 @@ Agentic AI, MCP, multimodal AI, deepfake detection and sustainable computing.
 
 ---
 
-# ⭐ Featured Projects
+## ⭐ Featured Projects
 
 <table>
 <tr>
@@ -165,26 +161,24 @@ Agentic AI, MCP, multimodal AI, deepfake detection and sustainable computing.
 
 A full-stack **role-based employee onboarding platform** designed for Employees, Managers, and HR Admins.
 
-**Tech:**  
-`React` · `TypeScript` · `Node.js` · `Express` · `PostgreSQL` · `Prisma`
+**Tech:** `React` · `TypeScript` · `Node.js` · `Express` · `PostgreSQL` · `Prisma`
 
-**AI:**  
-`Google Gemini` · `RAG` · `Gemini Embeddings` · `pgvector`
+**AI:** `Google Gemini` · `RAG` · `Gemini Embeddings` · `pgvector`
 
-🔗 **Live Demo:**  
-https://onboarding-platform-xi.vercel.app/
+🔗 **Live Demo:**
+[https://onboarding-platform-xi.vercel.app/](https://onboarding-platform-xi.vercel.app/)
 
 **Features:**
 
-- 👥 Employee / Manager / HR Admin roles
-- 📋 AI-generated onboarding tasks
-- 📄 Intelligent document processing
-- 🧠 RAG-based document Q&A
-- 💬 AI onboarding assistant
-- 📊 HR analytics dashboard
-- 😊 AI feedback sentiment analysis
-- ⏳ Task extension & approval workflow
-- 🔐 JWT authentication
+* 👥 Employee / Manager / HR Admin roles
+* 📋 AI-generated onboarding tasks
+* 📄 Intelligent document processing
+* 🧠 RAG-based document Q&A
+* 💬 AI onboarding assistant
+* 📊 HR analytics dashboard
+* 😊 AI feedback sentiment analysis
+* ⏳ Task extension & approval workflow
+* 🔐 JWT authentication
 
 </td>
 
@@ -194,24 +188,22 @@ https://onboarding-platform-xi.vercel.app/
 
 An AI-powered **Learning Management System** built using the PERN stack.
 
-**Tech:**  
-`React` · `TypeScript` · `Node.js` · `Express` · `PostgreSQL` · `Prisma`
+**Tech:** `React` · `TypeScript` · `Node.js` · `Express` · `PostgreSQL` · `Prisma`
 
-**AI:**  
-`Google Gemini` · `RAG`
+**AI:** `Google Gemini` · `RAG`
 
 **Features:**
 
-- 👨‍🎓 Student / Instructor / Admin roles
-- 📚 Course & lesson management
-- 📝 Quizzes & assignments
-- 📈 Progress tracking
-- 🎓 Certificate generation
-- 🤖 AI quiz generation
-- 📖 AI lesson summarization
-- 🧠 RAG-based course assistant
-- 💬 AI study assistant
-- 🎯 Personalized recommendations
+* 👨‍🎓 Student / Instructor / Admin roles
+* 📚 Course & lesson management
+* 📝 Quizzes & assignments
+* 📈 Progress tracking
+* 🎓 Certificate generation
+* 🤖 AI quiz generation
+* 📖 AI lesson summarization
+* 🧠 RAG-based course assistant
+* 💬 AI study assistant
+* 🎯 Personalized recommendations
 
 </td>
 
@@ -225,25 +217,21 @@ An AI-powered **Learning Management System** built using the PERN stack.
 
 AI-powered system for detecting manipulated media using **audio + video analysis**.
 
-**Tech:**  
-`PyTorch` · `OpenCV` · `CNN` · `LSTM`
+**Tech:** `PyTorch` · `OpenCV` · `CNN` · `LSTM`
 
-### 📊 Results
+**Results:**
 
-| Metric | Initial | Improved |
-|---|---:|---:|
-| Accuracy | 68.36% | **86.0%** |
-| ROC-AUC | 0.723 | **0.88** |
-| Fake Recall | 56.0% | **84.0%** |
-| Real Recall | — | **88.1%** |
+📈 **Accuracy: 68.36% → 86.0%**
+
+📊 **ROC-AUC: 0.723 → 0.88**
 
 **Focus:**
 
-- 🎥 Video analysis
-- 🎙️ Audio analysis
-- 🧠 Multimodal fusion
-- 🔍 Deepfake detection
-- 👥 Human perception analysis
+* 🎥 Video analysis
+* 🎙️ Audio analysis
+* 🧠 Multimodal fusion
+* 🔍 Deepfake detection
+* 👥 Human perception analysis
 
 </td>
 
@@ -255,12 +243,12 @@ An AI-powered career platform designed to help job seekers from **learning to ge
 
 **Features:**
 
-- 📄 AI Resume Builder
-- 🎯 ATS Score
-- 🤖 AI Interview Practice
-- 💻 Coding Assessments
-- 🗺️ Learning Roadmaps
-- 📚 Skill Development
+* 📄 AI Resume Builder
+* 🎯 ATS Score
+* 🤖 AI Interview Practice
+* 💻 Coding Assessments
+* 🗺️ Learning Roadmaps
+* 📚 Skill Development
 
 **Focus:**
 
@@ -278,17 +266,16 @@ An AI-powered career platform designed to help job seekers from **learning to ge
 
 Desktop-based airline management application.
 
-**Tech:**  
-`Java` · `JavaFX` · `JDBC` · `MySQL`
+**Tech:** `Java` · `JavaFX` · `JDBC` · `MySQL`
 
 **Features:**
 
-- ✈️ Flight scheduling
-- 🎫 Ticket booking
-- 💺 Seat selection
-- 👤 User authentication
-- 💳 Payment management
-- 🗄️ Database management
+* ✈️ Flight scheduling
+* 🎫 Ticket booking
+* 💺 Seat selection
+* 👤 User authentication
+* 💳 Payment management
+* 🗄️ Database management
 
 </td>
 
@@ -300,12 +287,12 @@ Centralized healthcare information platform providing real-time medical services
 
 **Features:**
 
-- 🏥 Hospital information
-- 👨‍⚕️ Doctor availability
-- 🛏️ Cabin status
-- 🩸 Blood services
-- 🚑 Ambulance requests
-- 💊 Pharmacy information
+* 🏥 Hospital information
+* 👨‍⚕️ Doctor availability
+* 🛏️ Cabin status
+* 🩸 Blood services
+* 🚑 Ambulance requests
+* 💊 Pharmacy information
 
 </td>
 
@@ -314,86 +301,85 @@ Centralized healthcare information platform providing real-time medical services
 
 ---
 
-# 🔬 Research & Publications
+## 🔬 Research & Publications
 
-## 📄 Energy-Aware Tool Discovery for Agentic AI with the Model Context Protocol
+### 📄 Energy-Aware Tool Discovery for Agentic AI with the Model Context Protocol
 
 **Submitted to IEEE Transactions on Sustainable Computing**
 
-**Research Areas**
+**Research Areas:**
 
 `Agentic AI` · `Model Context Protocol` · `AI Security` · `Green Computing` · `Sustainable AI`
 
 Exploring energy-aware tool discovery mechanisms for agentic AI systems while considering security threats and sustainability challenges in MCP-based architectures.
 
-### 🔎 Research Interests
+**Research Interests:**
 
-- 🤖 Agentic AI
-- 🔗 Model Context Protocol (MCP)
-- ⚡ Energy-aware AI systems
-- 🔐 AI security
-- 🌱 Sustainable computing
-- 🧠 Intelligent tool discovery
+* 🔎 Agentic AI
+* 🔗 Model Context Protocol (MCP)
+* ⚡ Energy-aware AI systems
+* 🔐 AI security
+* 🌱 Sustainable computing
+* 🧠 Intelligent tool discovery
 
 ---
 
-## 🎥 Multimodal Deepfake Detection — Human in the Loop
+### 🎥 Multimodal Deepfake Detection — Human in the Loop
 
 Research-oriented deepfake detection system combining **audio and visual modalities** with human perception analysis.
 
-### 📊 Key Results
+**Key Results:**
 
-| Metric | Initial | Improved |
-|---|---:|---:|
-| Accuracy | 68.36% | **86.0%** |
-| ROC-AUC | 0.723 | **0.88** |
-| Fake Recall | 56.0% | **84.0%** |
-| Real Recall | — | **88.1%** |
+| Metric      | Initial |  Improved |
+| ----------- | ------: | --------: |
+| Accuracy    |  68.36% | **86.0%** |
+| ROC-AUC     |   0.723 |  **0.88** |
+| Fake Recall |   56.0% | **84.0%** |
+| Real Recall |       — | **88.1%** |
 
-**Technologies**
+**Technologies:**
 
 `PyTorch` · `EfficientNet` · `MobileNetV3` · `OpenCV` · `Audio-Visual Fusion`
 
 ---
 
-# 🧠 AI & Generative AI
+## 🧠 AI & Generative AI
 
 My current focus is building **practical AI-powered applications** that solve real-world problems.
 
-## 🔥 AI Development Pipeline
+### 🔥 AI Development Pipeline
 
 ```text
-                 👤 User / Problem
-                         │
-                         ▼
-                ┌─────────────────┐
-                │   📄 Data/Docs  │
-                └────────┬────────┘
-                         │
-                         ▼
-                ┌─────────────────┐
-                │ 🧠 Embeddings   │
-                └────────┬────────┘
-                         │
-                         ▼
-                ┌─────────────────┐
-                │ 🔎 Vector Search│
-                └────────┬────────┘
-                         │
-                         ▼
-                ┌─────────────────┐
-                │ 🤖 RAG          │
-                └────────┬────────┘
-                         │
-                         ▼
-                ┌─────────────────┐
-                │ 🧠 LLM          │
-                └────────┬────────┘
-                         │
-                         ▼
-                ┌─────────────────┐
-                │ 🚀 AI App       │
-                └─────────────────┘
+        User / Problem
+              │
+              ▼
+      ┌─────────────────┐
+      │   Data / Docs   │
+      └────────┬────────┘
+               ▼
+      ┌─────────────────┐
+      │   Embeddings    │
+      └────────┬────────┘
+               ▼
+      ┌─────────────────┐
+      │  Vector Search  │
+      └────────┬────────┘
+               ▼
+      ┌─────────────────┐
+      │       RAG       │
+      └────────┬────────┘
+               ▼
+      ┌─────────────────┐
+      │       LLM       │
+      └────────┬────────┘
+               ▼
+      ┌─────────────────┐
+      │ AI Application  │
+      └─────────────────┘
+```
+
+---
+
 ## 📚 Currently Learning
 
 * 🧠 Advanced RAG architectures
