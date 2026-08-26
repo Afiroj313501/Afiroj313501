@@ -1,7 +1,3 @@
-Yes. Here is **the complete `README.md` in one block**, with your existing sections preserved and the new attractive sections added. I also corrected **CSE Graduate** and cleaned up the live project formatting.
-
-Just copy everything inside the block and paste it into your GitHub profile `README.md`.
-
 # 👋 Hi, I'm Abdullah Firoj
 
 <p align="center">
