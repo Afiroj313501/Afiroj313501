@@ -437,7 +437,6 @@ My current focus is building **practical AI-powered applications** that solve re
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Afiroj313501&theme=tokyo-night&hide_border=true" />
 </p>
 
----
 
 ## 📌 Featured Repositories
 
@@ -450,8 +449,6 @@ My current focus is building **practical AI-powered applications** that solve re
   </a>
 </p>
 
----
-
 ## 💡 Developer Philosophy
 
 <p align="center">
@@ -462,9 +459,6 @@ My current focus is building **practical AI-powered applications** that solve re
 
 ```text
 Build → Learn → Experiment → Research → Improve → Repeat 🚀
-```
-
----
 
 ## 🌐 Let's Connect
 
