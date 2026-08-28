@@ -66,6 +66,7 @@ I enjoy turning ideas into real-world applications — from scalable web platfor
 
 <table>
 <tr>
+
 <td align="center" width="25%">
 
 ### 🤖 AI Applications
@@ -97,6 +98,7 @@ Scalable MERN/PERN applications, REST APIs and secure backend systems.
 Agentic AI, MCP, multimodal AI, deepfake detection and sustainable computing.
 
 </td>
+
 </tr>
 </table>
 
@@ -162,7 +164,7 @@ A full-stack **role-based employee onboarding platform** designed for Employees,
 **AI:** `Google Gemini` · `RAG` · `Gemini Embeddings` · `pgvector`
 
 🔗 **Live Demo:**
-[https://onboarding-platform-xi.vercel.app/](https://onboarding-platform-xi.vercel.app/)
+https://onboarding-platform-xi.vercel.app/
 
 **Features:**
 
@@ -349,29 +351,29 @@ My current focus is building **practical AI-powered applications** that solve re
         User / Problem
               │
               ▼
-      ┌─────────────────┐
-      │   Data / Docs   │
-      └────────┬────────┘
-               ▼
-      ┌─────────────────┐
-      │   Embeddings    │
-      └────────┬────────┘
-               ▼
-      ┌─────────────────┐
-      │  Vector Search  │
-      └────────┬────────┘
-               ▼
-      ┌─────────────────┐
-      │       RAG       │
-      └────────┬────────┘
-               ▼
-      ┌─────────────────┐
-      │       LLM       │
-      └────────┬────────┘
-               ▼
-      ┌─────────────────┐
-      │ AI Application  │
-      └─────────────────┘
+       ┌─────────────────┐
+       │   Data / Docs   │
+       └────────┬────────┘
+                ▼
+       ┌─────────────────┐
+       │   Embeddings    │
+       └────────┬────────┘
+                ▼
+       ┌─────────────────┐
+       │  Vector Search  │
+       └────────┬────────┘
+                ▼
+       ┌─────────────────┐
+       │       RAG       │
+       └────────┬────────┘
+                ▼
+       ┌─────────────────┐
+       │       LLM       │
+       └────────┬────────┘
+                ▼
+       ┌─────────────────┐
+       │ AI Application  │
+       └─────────────────┘
 ```
 
 ---
@@ -418,7 +420,7 @@ My current focus is building **practical AI-powered applications** that solve re
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Afiroj313501&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img src="https://github-readme-stats.tuhidulhossain.com/api/streak?username=Afiroj313501&theme=tokyonight&hide_border=true&border_radius=10" />
 </p>
 
 ---
@@ -437,6 +439,7 @@ My current focus is building **practical AI-powered applications** that solve re
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Afiroj313501&theme=tokyo-night&hide_border=true" />
 </p>
 
+---
 
 ## 📌 Featured Repositories
 
@@ -444,10 +447,13 @@ My current focus is building **practical AI-powered applications** that solve re
   <a href="https://github.com/Afiroj313501/lumenlearner">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Afiroj313501&repo=lumenlearner&theme=tokyonight&hide_border=true" />
   </a>
+
   <a href="https://github.com/Afiroj313501/onboarding-platform">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Afiroj313501&repo=onboarding-platform&theme=tokyonight&hide_border=true" />
   </a>
 </p>
+
+---
 
 ## 💡 Developer Philosophy
 
@@ -459,19 +465,26 @@ My current focus is building **practical AI-powered applications** that solve re
 
 ```text
 Build → Learn → Experiment → Research → Improve → Repeat 🚀
+```
+
+---
 
 ## 🌐 Let's Connect
 
 <p align="center">
+
   <a href="https://www.linkedin.com/in/abdullah-firoj-900697375">
     <img src="https://img.shields.io/badge/LinkedIn-Abdullah%20Firoj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="https://github.com/Afiroj313501">
     <img src="https://img.shields.io/badge/GitHub-Afiroj313501-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+
   <a href="https://portfolio-firoj2.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-36BCF7?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
+
 </p>
 
 ---
