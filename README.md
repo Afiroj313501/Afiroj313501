@@ -155,6 +155,33 @@ Agentic AI, MCP, multimodal AI, deepfake detection and sustainable computing.
 
 <td width="50%">
 
+### 🔬 ResearchPilot AI
+
+An AI-powered **research assistant** for reading, searching and understanding research papers with citation-grounded answers, built with **Retrieval-Augmented Generation (RAG)**.
+
+**Tech:** `React` · `TypeScript` · `Vite` · `Node.js` · `Express` · `PostgreSQL` · `pgvector` · `Prisma`
+
+**AI:** `Google Gemini` · `Gemini Embeddings` · `RAG`
+
+🔗 **Live Demo:**
+https://research-pilot-orcin.vercel.app
+
+**Features:**
+
+* 🔐 JWT authentication
+* 📚 Research collections
+* 📄 PDF upload & text extraction
+* 🧩 Document chunking
+* 🔎 Semantic search (pgvector)
+* 🤖 RAG research chat
+* 📖 Source citations
+* 💬 Conversation history
+* 📊 Research dashboard
+
+</td>
+
+<td width="50%">
+
 ### 🤖 AI Employee Onboarding Platform
 
 A full-stack **role-based employee onboarding platform** designed for Employees, Managers, and HR Admins.
@@ -179,6 +206,10 @@ https://onboarding-platform-xi.vercel.app/
 * 🔐 JWT authentication
 
 </td>
+
+</tr>
+
+<tr>
 
 <td width="50%">
 
@@ -205,10 +236,6 @@ An AI-powered **Learning Management System** built using the PERN stack.
 
 </td>
 
-</tr>
-
-<tr>
-
 <td width="50%">
 
 ### 🤖 Multimodal Deepfake Detection
@@ -233,6 +260,10 @@ AI-powered system for detecting manipulated media using **audio + video analysis
 
 </td>
 
+</tr>
+
+<tr>
+
 <td width="50%">
 
 ### 🌱 CareerForge AI
@@ -254,10 +285,6 @@ An AI-powered career platform designed to help job seekers from **learning to ge
 
 </td>
 
-</tr>
-
-<tr>
-
 <td width="50%">
 
 ### ✈️ Airlines Management System
@@ -277,6 +304,10 @@ Desktop-based airline management application.
 
 </td>
 
+</tr>
+
+<tr>
+
 <td width="50%">
 
 ### 🏥 Extensive Medical Hub
@@ -291,6 +322,10 @@ Centralized healthcare information platform providing real-time medical services
 * 🩸 Blood services
 * 🚑 Ambulance requests
 * 💊 Pharmacy information
+
+</td>
+
+<td width="50%">
 
 </td>
 
@@ -391,58 +426,22 @@ My current focus is building **practical AI-powered applications** that solve re
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Leadership
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JSC-GPA%205-36BCF7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SSC-GPA%205-8B5CF6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/HSC-GPA%205-22C55E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/System%20Analysis-1st%20Runner--Up-F59E0B?style=for-the-badge" />
-</p>
-
+* 🧮 **Vice President — GCPSC Math Club**
+* 🧮 **Vice President — GCPSC Science Club**
 * 🥇 **1st Runner-Up — System Analysis & Design**
-* 🧮 **Vice President — Math Club**
+* 🥇 **1st Runner-Up — Software Engineering Lab**
 * 🎓 **GPA 5 — JSC**
 * 🎓 **GPA 5 — SSC**
 * 🎓 **GPA 5 — HSC**
 
 ---
 
-## 📊 GitHub Analytics
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Afiroj313501&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afiroj313501&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Afiroj313501&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Afiroj313501&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=6" />
-</p>
-
----
-
-## 📌 Featured Repositories
-
-<p align="center">
-  <a href="https://github.com/Afiroj313501/lumenlearner">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Afiroj313501&repo=lumenlearner&theme=tokyonight&hide_border=true" />
-  </a>
-
-  <a href="https://github.com/Afiroj313501/onboarding-platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Afiroj313501&repo=onboarding-platform&theme=tokyonight&hide_border=true" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Afiroj313501&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
