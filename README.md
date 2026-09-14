@@ -220,7 +220,8 @@ An AI-powered **Learning Management System** built using the PERN stack.
 **Tech:** `React` · `TypeScript` · `Node.js` · `Express` · `PostgreSQL` · `Prisma`
 
 **AI:** `Google Gemini` · `RAG`
-
+🔗 **Live Demo:**
+https://lumenlearner-iota.vercel.app
 **Features:**
 
 * 👨‍🎓 Student / Instructor / Admin roles
