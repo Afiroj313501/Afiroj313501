@@ -267,6 +267,54 @@ AI-powered system for detecting manipulated media using **audio + video analysis
 
 <td width="50%">
 
+
+### 🛡️ Sentinel AI
+
+An AI-powered code review and security analysis platform designed to help developers identify code issues and understand how to fix them.
+
+**Focus:** `AI Engineering` · `Code Analysis` · `Application Security`
+
+**Features:**
+
+- 🐛 Bug and code-smell detection
+- 🔐 Security vulnerability analysis
+- 📦 Dependency issue checks
+- ⚡ Performance and code duplication analysis
+- 🤖 AI-generated explanations and suggested fixes
+- 📋 Repository analysis reports
+
+---
+
+### 💰 SpendWise
+
+A personal finance and expense-tracking application that helps users understand their spending habits, organize transactions, and manage budgets.
+
+**Focus:** `Full-Stack Development` · `Personal Finance` · `Data Visualization`
+
+**Features:**
+
+- 💸 Record and categorize income and expenses
+- 📊 Dashboard with spending summaries
+- 🎯 Monthly budgets and budget progress
+- 📈 Spending trends and category breakdowns
+- 🔎 Search and filter transactions
+- 💡 Insights for better budgeting decisions
+
+---
+
+### 🍳 RecipeBox
+
+A recipe management web application where users can discover, explore, and save their favorite meals.
+
+**Features:**
+
+- 🥗 Browse recipes by category
+- 🔍 Search recipes
+- 📖 View complete recipe details and descriptions
+- 🧂 Ingredients with quantities
+- 👨‍🍳 Step-by-step cooking instructions
+- ❤️ Save and manage favorite recipes
+
 ### 🌱 CareerForge AI
 
 An AI-powered career platform designed to help job seekers from **learning to getting hired**.
