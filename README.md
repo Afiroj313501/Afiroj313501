@@ -1,104 +1,134 @@
 # 👋 Hi, I'm Abdullah Firoj
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1200&color=36BCF7&center=true&vCenter=true&width=850&lines=Software+Developer+%F0%9F%92%BB;Full-Stack+Developer+%F0%9F%9A%80;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Generative+AI+%26+RAG+Developer+%F0%9F%A7%A0;AI+Researcher+%F0%9F%94%AC;Building+Real-World+Solutions+%E2%9C%A8;Always+Learning.+Always+Building." />
+  <a href="https://abdullahfiroj-dev.vercel.app/">
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:6366F1,100:8B5CF6&height=210&section=header&text=Abdullah%20Firoj&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineering%20%C2%B7%20Applied%20AI%20%C2%B7%20Research&descAlignY=58&descSize=18" alt="Abdullah Firoj profile header"/>
+  </a>
 </p>
 
-<p align="center">
-  <b>Software Developer • Full-Stack Developer • AI/ML Engineer • Generative AI Enthusiast • Researcher</b>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Afiroj313501&label=Profile%20Views&color=36BCF7&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Afiroj313501?label=Followers&style=for-the-badge&color=8B5CF6" />
-  <img src="https://img.shields.io/github/stars/Afiroj313501?label=Total%20Stars&style=for-the-badge&color=F59E0B" />
-</p>
+<a href="https://readme-typing-svg.herokuapp.com">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Software+Developer+%F0%9F%92%BB;Full-Stack+Engineer+%F0%9F%9A%80;AI+%26+Machine+Learning+%F0%9F%A4%96;Generative+AI+%26+RAG+Developer+%F0%9F%A7%A0;Building+AI-Powered+Products+%E2%9C%A8;Researching+Intelligent+Systems+%F0%9F%94%AC" alt="Typing animation"/>
+</a>
 
-<p align="center">
+**Software Developer · Full-Stack Engineer · AI/ML · Generative AI · Research**
+
+<p>
   <a href="https://github.com/Afiroj313501">
-    <img src="https://img.shields.io/badge/GitHub-Afiroj313501-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-Afiroj313501-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/abdullah-firoj-900697375">
-    <img src="https://img.shields.io/badge/LinkedIn-Abdullah%20Firoj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://portfolio-firoj2.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-36BCF7?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <a href="https://abdullahfiroj-dev.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Explore-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Afiroj313501&label=Profile%20Views&color=36BCF7&style=flat-square" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/Afiroj313501?label=Followers&style=flat-square&color=8B5CF6&logo=github" alt="GitHub followers"/>
+</p>
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm a **Computer Science & Engineering graduate** passionate about building practical software systems and exploring the intersection of **Full-Stack Development, Artificial Intelligence, Generative AI, and Research**.
+```python
+class AbdullahFiroj:
+    def __init__(self):
+        self.role = "Software Developer & AI Engineer"
+        self.education = "B.Sc. in CSE — UIU"
+        self.major = "Data Science"
+        self.location = "Bangladesh 🇧🇩"
 
-I enjoy turning ideas into real-world applications — from scalable web platforms and AI assistants to multimodal deepfake detection and intelligent learning systems.
+        self.interests = [
+            "Full-Stack Development",
+            "Generative AI & RAG",
+            "Machine Learning",
+            "Agentic AI & MCP",
+            "Computer Vision",
+            "AI Research",
+        ]
 
-* 🎓 **B.Sc. in Computer Science & Engineering** — United International University
-* 🎓 **Major:** Data Science
-* 💻 Full-Stack Developer — **MERN / PERN**
-* 🤖 AI, Machine Learning & Deep Learning Enthusiast
-* 🧠 Generative AI, LLMs & Retrieval-Augmented Generation
-* 🔎 Interested in **Agentic AI & intelligent systems**
-* 🔬 Researching **Model Context Protocol (MCP), Agentic AI & Sustainable Computing**
-* 👁️ Exploring **Computer Vision & Multimodal AI**
-* 🏗️ Interested in scalable, intelligent and user-focused applications
-* 🚀 Always learning, experimenting and building real-world solutions
+        self.philosophy = (
+            "Build useful software, "
+            "solve real problems, and "
+            "keep learning."
+        )
+
+    def currently_exploring(self):
+        return [
+            "Advanced RAG",
+            "AI Agents",
+            "Secure AI Applications",
+            "Sustainable AI Systems",
+        ]
+```
+
+- 🎓 **B.Sc. in Computer Science & Engineering** — United International University (UIU).
+- 📊 **Major:** Data Science.
+- 💻 Building full-stack applications with the **MERN/PERN ecosystem**.
+- 🤖 Exploring practical AI applications, machine learning and deep learning.
+- 🧠 Developing LLM-powered applications using RAG, embeddings and semantic search.
+- 🔬 Research interests include Model Context Protocol (MCP), agentic AI and sustainable computing.
+- 👁️ Interested in computer vision and multimodal deepfake detection.
+- 🚀 Focused on building portfolio-ready software that combines engineering with practical problem-solving.
+
+> ⚡ My goal: bridge the gap between AI research and useful, real-world software.
 
 ---
 
 ## 🎯 Current Focus
 
-<p align="center">
+<div align="center">
 
-<img src="https://img.shields.io/badge/Generative%20AI-LLMs-36BCF7?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RAG-Vector%20Search-8B5CF6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Agentic%20AI-MCP-22C55E?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Computer%20Vision-Multimodal%20AI-F59E0B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Full--Stack-MERN%20%2F%20PERN-0EA5E9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Research-Sustainable%20AI-E11D48?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Full--Stack-MERN%20%2F%20PERN-0EA5E9?style=for-the-badge" alt="Full stack"/>
+<img src="https://img.shields.io/badge/Generative%20AI-LLMs-8B5CF6?style=for-the-badge" alt="Generative AI"/>
+<img src="https://img.shields.io/badge/RAG-Semantic%20Search-22C55E?style=for-the-badge" alt="RAG"/>
+<img src="https://img.shields.io/badge/Agentic%20AI-MCP-F59E0B?style=for-the-badge" alt="Agentic AI"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-Multimodal-E11D48?style=for-the-badge" alt="Computer vision"/>
+<img src="https://img.shields.io/badge/Research-Sustainable%20AI-6366F1?style=for-the-badge" alt="Sustainable AI"/>
 
-</p>
+</div>
 
 ---
 
-## 🧠 What I Build
+## 🧩 What I Build
 
 <table>
 <tr>
-
 <td align="center" width="25%">
 
 ### 🤖 AI Applications
 
-LLM-powered applications, AI assistants, automation and intelligent workflows.
+LLM-powered products, intelligent assistants, automation and AI-driven workflows.
 
 </td>
-
 <td align="center" width="25%">
 
 ### 🧠 RAG Systems
 
-Embeddings, semantic search, vector databases and context-aware AI.
+Document processing, embeddings, vector search, retrieval pipelines and grounded answers.
 
 </td>
-
 <td align="center" width="25%">
 
 ### 🌐 Full-Stack Apps
 
-Scalable MERN/PERN applications, REST APIs and secure backend systems.
+Web applications, REST APIs, authentication, database design and dashboards.
 
 </td>
-
 <td align="center" width="25%">
 
 ### 🔬 AI Research
 
-Agentic AI, MCP, multimodal AI, deepfake detection and sustainable computing.
+Multimodal learning, deepfake detection, agentic AI, MCP and sustainable computing.
 
 </td>
-
 </tr>
 </table>
 
@@ -109,275 +139,324 @@ Agentic AI, MCP, multimodal AI, deepfake detection and sustainable computing.
 ### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp&theme=dark" alt="Programming languages"/>
 </p>
 
-### 🌐 Web Development
+### 🌐 Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,vite,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,vite,tailwind&theme=dark" alt="Frontend technologies"/>
 </p>
+
+### ⚙️ Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Backend technologies"/>
+</p>
+
+`Node.js` · `Express.js` · `REST APIs` · `JWT Authentication`
 
 ### 🤖 AI / Machine Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" alt="AI and machine learning"/>
 </p>
 
-**AI / ML:**
+`Machine Learning` · `Deep Learning` · `CNN` · `Computer Vision` · `Multimodal AI` · `Generative AI` · `LLMs` · `RAG` · `Embeddings` · `Semantic Search` · `Google Gemini`
 
-`Machine Learning` · `Deep Learning` · `CNN` · `ResNet3D` · `HuBERT` · `DINOv2` · `Computer Vision`
-
-**Generative AI:**
-
-`Google Gemini` · `LLMs` · `RAG` · `Embeddings` · `Semantic Search` · `Vector Search`
-
-### 🗄️ Databases & Backend
+### 🗄️ Databases & ORM
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,prisma" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,prisma&theme=dark" alt="Databases and ORM"/>
 </p>
 
-`PostgreSQL` · `MongoDB` · `MySQL` · `Prisma` · `REST APIs` · `JWT Authentication`
+`PostgreSQL` · `MongoDB` · `MySQL` · `pgvector` · `Prisma ORM`
 
-### 🛠️ Tools & Platforms
+### 🧰 Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,postman,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,docker,vercel&theme=dark" alt="Development tools"/>
 </p>
+
+`Git` · `GitHub` · `VS Code` · `Postman` · `Vercel` · `Docker`
 
 ---
 
-## ⭐ Featured Projects
+## 🚀 Featured Projects
+
+> Explore my projects to see how I apply full-stack engineering, AI and research to practical problems.
 
 <table>
 <tr>
-
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🔬 ResearchPilot AI
 
-An AI-powered **research assistant** for reading, searching and understanding research papers with citation-grounded answers, built with **Retrieval-Augmented Generation (RAG)**.
+**AI-Powered Research Assistant**
 
-**Tech:** `React` · `TypeScript` · `Vite` · `Node.js` · `Express` · `PostgreSQL` · `pgvector` · `Prisma`
+A research platform that helps users organize academic papers, search document content semantically and ask questions with source-grounded AI answers.
 
-**AI:** `Google Gemini` · `Gemini Embeddings` · `RAG`
+**Tech Stack**
 
-🔗 **Live Demo:**
-https://research-pilot-orcin.vercel.app
+`React` · `TypeScript` · `Node.js` · `Express` · `PostgreSQL` · `pgvector` · `Prisma`
 
-**Features:**
+**AI Stack**
 
-* 🔐 JWT authentication
-* 📚 Research collections
-* 📄 PDF upload & text extraction
-* 🧩 Document chunking
-* 🔎 Semantic search (pgvector)
-* 🤖 RAG research chat
-* 📖 Source citations
-* 💬 Conversation history
-* 📊 Research dashboard
+`Google Gemini` · `Embeddings` · `RAG`
+
+**Highlights**
+
+- 🔐 JWT authentication
+- 📚 Research collections
+- 📄 PDF upload and text extraction
+- 🧩 Document chunking and embedding generation
+- 🔎 Vector similarity search
+- 🤖 Context-aware research chat
+- 📖 Citation-grounded answers
+- 💬 Conversation history
+
+🔗 **[Live Demo](https://research-pilot-orcin.vercel.app)**
+
+🔗 **[GitHub Repository](https://github.com/Afiroj313501/ResearchPilot)**
 
 </td>
-
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🤖 AI Employee Onboarding Platform
 
-A full-stack **role-based employee onboarding platform** designed for Employees, Managers, and HR Admins.
+**Intelligent Employee Onboarding**
 
-**Tech:** `React` · `TypeScript` · `Node.js` · `Express` · `PostgreSQL` · `Prisma`
+A role-based onboarding application designed to organize employee onboarding workflows and provide AI-assisted guidance using internal documents.
 
-**AI:** `Google Gemini` · `RAG` · `Gemini Embeddings` · `pgvector`
+**Tech Stack**
 
-🔗 **Live Demo:**
-https://onboarding-platform-xi.vercel.app/
+`React` · `TypeScript` · `Node.js` · `Express` · `PostgreSQL` · `Prisma`
 
-**Features:**
+**AI Stack**
 
-* 👥 Employee / Manager / HR Admin roles
-* 📋 AI-generated onboarding tasks
-* 📄 Intelligent document processing
-* 🧠 RAG-based document Q&A
-* 💬 AI onboarding assistant
-* 📊 HR analytics dashboard
-* 😊 AI feedback sentiment analysis
-* ⏳ Task extension & approval workflow
-* 🔐 JWT authentication
+`Google Gemini` · `RAG` · `pgvector`
+
+**Highlights**
+
+- 👥 Employee, Manager and HR Admin roles
+- 📋 AI-assisted onboarding tasks
+- 📄 Document processing
+- 🧠 Document-based Q&A
+- 💬 AI onboarding assistant
+- 📊 HR analytics dashboard
+- 😊 Feedback sentiment analysis
+- ⏳ Task extension and approval workflows
+
+🔗 **[Live Demo](https://onboarding-platform-xi.vercel.app/)**
+
+🔗 **[GitHub Repository](https://github.com/Afiroj313501/onboarding-platform)**
 
 </td>
-
 </tr>
 
 <tr>
+<td width="50%" valign="top">
 
-<td width="50%">
+### 🎓 LumenLearner
 
-### 💡 LumenLearner
+**AI-Powered Learning Management System**
 
-An AI-powered **Learning Management System** built using the PERN stack.
+A learning platform that supports students, instructors and administrators with course management, assessments, progress tracking and AI-assisted learning.
 
-**Tech:** `React` · `TypeScript` · `Node.js` · `Express` · `PostgreSQL` · `Prisma`
+**Tech Stack**
 
-**AI:** `Google Gemini` · `RAG`
-🔗 **Live Demo:**
-https://lumenlearner-iota.vercel.app
-**Features:**
+`React` · `TypeScript` · `Node.js` · `Express` · `PostgreSQL` · `Prisma`
 
-* 👨‍🎓 Student / Instructor / Admin roles
-* 📚 Course & lesson management
-* 📝 Quizzes & assignments
-* 📈 Progress tracking
-* 🎓 Certificate generation
-* 🤖 AI quiz generation
-* 📖 AI lesson summarization
-* 🧠 RAG-based course assistant
-* 💬 AI study assistant
-* 🎯 Personalized recommendations
+**Highlights**
 
-</td>
+- 👨‍🎓 Role-based access control
+- 📚 Course and lesson management
+- 📝 Quizzes and assignments
+- 📈 Learning progress tracking
+- 🎓 Certificate generation
+- 🤖 AI quiz generation
+- 📖 AI lesson summarization
+- 🧠 RAG-based course assistant
+- 🎯 Personalized recommendations
 
-<td width="50%">
+🔗 **[Live Demo](https://lumenlearner-iota.vercel.app)**
 
-### 🤖 Multimodal Deepfake Detection
-
-AI-powered system for detecting manipulated media using **audio + video analysis**.
-
-**Tech:** `PyTorch` · `OpenCV` · `CNN` · `LSTM`
-
-**Results:**
-
-📈 **Accuracy: 68.36% → 86.0%**
-
-📊 **ROC-AUC: 0.723 → 0.88**
-
-**Focus:**
-
-* 🎥 Video analysis
-* 🎙️ Audio analysis
-* 🧠 Multimodal fusion
-* 🔍 Deepfake detection
-* 👥 Human perception analysis
+🔗 **[GitHub Repository](https://github.com/Afiroj313501/LumosLearn)**
 
 </td>
+<td width="50%" valign="top">
 
+### 🎥 Multimodal Deepfake Detection
+
+**Audio-Visual AI Research**
+
+A research project combining audio and video analysis to detect manipulated media, with a human-in-the-loop component for examining human perception and AI-assisted judgments.
+
+**Tech Stack**
+
+`Python` · `PyTorch` · `OpenCV` · `Computer Vision`
+
+**Reported Results**
+
+| Metric | Initial | Improved |
+|:--|--:|--:|
+| Accuracy | 68.36% | **86.0%** |
+| ROC-AUC | 0.723 | **0.88** |
+| Fake Recall | 56.0% | **84.0%** |
+| Real Recall | — | **88.1%** |
+
+**Research Focus**
+
+- 🎥 Video-based manipulation detection
+- 🎙️ Audio analysis
+- 🧠 Multimodal fusion
+- 👥 Human perception and AI agreement
+
+</td>
 </tr>
 
 <tr>
-
-<td width="50%">
-
+<td width="50%" valign="top">
 
 ### 🛡️ Sentinel AI
 
-An AI-powered code review and security analysis platform designed to help developers identify code issues and understand how to fix them.
+**AI-Powered Code Review & Security Engine**
 
-**Focus:** `AI Engineering` · `Code Analysis` · `Application Security`
+A developer-focused platform designed to analyze code and help identify software quality and security issues.
 
-**Features:**
+**Focus**
+
+`AI Engineering` · `Code Analysis` · `Application Security`
+
+**Planned / Designed Capabilities**
 
 - 🐛 Bug and code-smell detection
 - 🔐 Security vulnerability analysis
-- 📦 Dependency issue checks
-- ⚡ Performance and code duplication analysis
-- 🤖 AI-generated explanations and suggested fixes
-- 📋 Repository analysis reports
+- 📦 Dependency risk assessment
+- ⚡ Performance issue detection
+- ♻️ Duplicate code analysis
+- 🏗️ Architectural issue identification
+- 🤖 AI explanations and suggested fixes
+- 📋 Scan reports and history
 
----
+</td>
+<td width="50%" valign="top">
 
 ### 💰 SpendWise
 
-A personal finance and expense-tracking application that helps users understand their spending habits, organize transactions, and manage budgets.
+**Personal Finance & Expense Tracker**
 
-**Focus:** `Full-Stack Development` · `Personal Finance` · `Data Visualization`
+A finance management application designed to help users organize transactions, monitor expenses and understand their spending patterns.
 
-**Features:**
+**Focus**
 
-- 💸 Record and categorize income and expenses
-- 📊 Dashboard with spending summaries
-- 🎯 Monthly budgets and budget progress
+`Full-Stack Development` · `Personal Finance` · `Data Visualization`
+
+**Features**
+
+- 💸 Income and expense tracking
+- 🗂️ Transaction categorization
+- 🎯 Monthly budget management
+- 📊 Financial overview dashboard
 - 📈 Spending trends and category breakdowns
-- 🔎 Search and filter transactions
-- 💡 Insights for better budgeting decisions
-
----
-
-### 🍳 RecipeBox
-
-A recipe management web application where users can discover, explore, and save their favorite meals.
-
-**Features:**
-
-- 🥗 Browse recipes by category
-- 🔍 Search recipes
-- 📖 View complete recipe details and descriptions
-- 🧂 Ingredients with quantities
-- 👨‍🍳 Step-by-step cooking instructions
-- ❤️ Save and manage favorite recipes
-
-### 🌱 CareerForge AI
-
-An AI-powered career platform designed to help job seekers from **learning to getting hired**.
-
-**Features:**
-
-* 📄 AI Resume Builder
-* 🎯 ATS Score
-* 🤖 AI Interview Practice
-* 💻 Coding Assessments
-* 🗺️ Learning Roadmaps
-* 📚 Skill Development
-
-**Focus:**
-
-`Generative AI` · `Career Tech` · `Full-Stack Development`
+- 🔎 Transaction search and filtering
+- 💡 Budgeting insights
 
 </td>
-
-<td width="50%">
-
-### ✈️ Airlines Management System
-
-Desktop-based airline management application.
-
-**Tech:** `Java` · `JavaFX` · `JDBC` · `MySQL`
-
-**Features:**
-
-* ✈️ Flight scheduling
-* 🎫 Ticket booking
-* 💺 Seat selection
-* 👤 User authentication
-* 💳 Payment management
-* 🗄️ Database management
-
-</td>
-
 </tr>
 
 <tr>
+<td width="50%" valign="top">
 
-<td width="50%">
+### 🍳 RecipeBox
+
+**Recipe Discovery & Management**
+
+A recipe management application for discovering meals, exploring ingredients and instructions, and managing favorite recipes.
+
+**Features**
+
+- 🥗 Browse recipes by category
+- 🔍 Search recipes
+- 📖 Detailed recipe descriptions
+- 🧂 Ingredients and quantities
+- 👨‍🍳 Step-by-step cooking instructions
+- ❤️ Save and manage favorites
+
+**Focus**
+
+`React` · `Full-Stack Development` · `User Experience`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌱 CareerForge AI
+
+**AI-Powered Career Development Platform**
+
+A career-focused application designed to help job seekers prepare for recruitment and identify opportunities for skill development.
+
+**Feature Areas**
+
+- 📄 AI-assisted resume building
+- 🎯 ATS-oriented resume feedback
+- 🤖 Interview practice
+- 💻 Coding assessments
+- 🗺️ Personalized learning roadmaps
+- 📚 Skill development guidance
+
+**Focus**
+
+`Generative AI` · `Career Technology` · `Full-Stack Development`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ✈️ Airlines Management System
+
+**Java Desktop Application**
+
+A desktop-based airline management application focused on flight operations and booking workflows.
+
+**Tech Stack**
+
+`Java` · `JavaFX` · `JDBC` · `MySQL`
+
+**Features**
+
+- ✈️ Flight scheduling
+- 🎫 Ticket booking
+- 💺 Seat selection
+- 👤 User authentication
+- 💳 Payment management
+- 🗄️ Database operations
+
+</td>
+<td width="50%" valign="top">
 
 ### 🏥 Extensive Medical Hub
 
-Centralized healthcare information platform providing real-time medical services.
+**Healthcare Information Platform**
 
-**Features:**
+A centralized healthcare information application designed to make essential medical service information easier to access.
 
-* 🏥 Hospital information
-* 👨‍⚕️ Doctor availability
-* 🛏️ Cabin status
-* 🩸 Blood services
-* 🚑 Ambulance requests
-* 💊 Pharmacy information
+**Feature Areas**
+
+- 🏥 Hospital information
+- 👨‍⚕️ Doctor availability
+- 🛏️ Cabin status
+- 🩸 Blood service information
+- 🚑 Ambulance requests
+- 💊 Pharmacy information
+
+**Focus**
+
+`Healthcare Technology` · `Information Systems` · `Full-Stack Development`
 
 </td>
-
-<td width="50%">
-
-</td>
-
 </tr>
 </table>
 
@@ -389,156 +468,176 @@ Centralized healthcare information platform providing real-time medical services
 
 **Submitted to IEEE Transactions on Sustainable Computing**
 
-**Research Areas:**
+Research exploring energy-aware tool discovery for agentic AI systems using the Model Context Protocol (MCP).
 
-`Agentic AI` · `Model Context Protocol` · `AI Security` · `Green Computing` · `Sustainable AI`
+**Research Areas**
 
-Exploring energy-aware tool discovery mechanisms for agentic AI systems while considering security threats and sustainability challenges in MCP-based architectures.
+`Agentic AI` · `Model Context Protocol` · `Energy-Aware Computing` · `AI Security` · `Sustainable AI`
 
-**Research Interests:**
+**Research Questions**
 
-* 🔎 Agentic AI
-* 🔗 Model Context Protocol (MCP)
-* ⚡ Energy-aware AI systems
-* 🔐 AI security
-* 🌱 Sustainable computing
-* 🧠 Intelligent tool discovery
-
----
+- 🔎 How can agentic systems discover tools efficiently?
+- ⚡ How can tool discovery reduce unnecessary computation and energy consumption?
+- 🔐 What security challenges arise in MCP-based tool interactions?
+- 🌱 How can sustainability be incorporated into agentic AI infrastructure?
 
 ### 🎥 Multimodal Deepfake Detection — Human in the Loop
 
-Research-oriented deepfake detection system combining **audio and visual modalities** with human perception analysis.
+Research combining audio-visual deepfake detection with human perception analysis.
 
-**Key Results:**
+**Key Results**
 
-| Metric      | Initial |  Improved |
-| ----------- | ------: | --------: |
-| Accuracy    |  68.36% | **86.0%** |
-| ROC-AUC     |   0.723 |  **0.88** |
-| Fake Recall |   56.0% | **84.0%** |
-| Real Recall |       — | **88.1%** |
+| Metric | Initial | Improved |
+|:--|--:|--:|
+| Accuracy | 68.36% | **86.0%** |
+| ROC-AUC | 0.723 | **0.88** |
+| Fake Recall | 56.0% | **84.0%** |
+| Real Recall | — | **88.1%** |
 
-**Technologies:**
+**Technologies & Methods**
 
-`PyTorch` · `EfficientNet` · `MobileNetV3` · `OpenCV` · `Audio-Visual Fusion`
+`PyTorch` · `Computer Vision` · `Audio-Visual Fusion` · `Deep Learning` · `Human-in-the-Loop Evaluation`
 
 ---
 
-## 🧠 AI & Generative AI
+## 🧠 How I Approach AI Applications
 
-My current focus is building **practical AI-powered applications** that solve real-world problems.
-
-### 🔥 AI Development Pipeline
+My focus is on building applications that connect data, retrieval, language models and usable interfaces.
 
 ```text
-        User / Problem
-              │
-              ▼
-       ┌─────────────────┐
-       │   Data / Docs   │
-       └────────┬────────┘
-                ▼
-       ┌─────────────────┐
-       │   Embeddings    │
-       └────────┬────────┘
-                ▼
-       ┌─────────────────┐
-       │  Vector Search  │
-       └────────┬────────┘
-                ▼
-       ┌─────────────────┐
-       │       RAG       │
-       └────────┬────────┘
-                ▼
-       ┌─────────────────┐
-       │       LLM       │
-       └────────┬────────┘
-                ▼
-       ┌─────────────────┐
-       │ AI Application  │
-       └─────────────────┘
+       User Question
+             │
+             ▼
+     Document Processing
+             │
+             ▼
+      Chunking & Cleaning
+             │
+             ▼
+     Embedding Generation
+             │
+             ▼
+       Vector Search
+             │
+             ▼
+     Context Construction
+             │
+             ▼
+       LLM Generation
+             │
+             ▼
+   Grounded Answer + Sources
+             │
+             ▼
+      User-Facing App
 ```
+
+The exact pipeline depends on the use case, but the goal remains the same: **use AI where it adds practical value, not just because it is available.**
 
 ---
 
 ## 📚 Currently Learning
 
-* 🧠 Advanced RAG architectures
-* 🤖 Agentic AI systems
-* 🔗 Model Context Protocol
-* 🗃️ Vector databases & retrieval systems
-* ⚡ AI application optimization
-* 🐳 Docker & containerization
-* ☁️ Cloud-based AI applications
-* 🔬 AI research methodologies
+- 🧠 Advanced RAG architectures and retrieval evaluation
+- 🤖 Agentic AI and multi-step workflows
+- 🔗 Model Context Protocol (MCP)
+- 🗃️ Vector databases and semantic retrieval
+- 🔐 Secure AI application development
+- ⚡ AI inference and application optimization
+- 🐳 Docker and containerization
+- ☁️ Cloud deployment and production-oriented engineering
+- 🔬 Research evaluation and experimental methodology
 
 ---
 
 ## 🏆 Achievements & Leadership
 
-* 🧮 **Vice President — GCPSC Math Club**
-* 🧮 **Vice President — GCPSC Science Club**
-* 🥇 **1st Runner-Up — System Analysis & Design**
-* 🥇 **1st Runner-Up — Software Engineering Lab**
-* 🎓 **GPA 5 — JSC**
-* 🎓 **GPA 5 — SSC**
-* 🎓 **GPA 5 — HSC**
+- 🧮 **Vice President — GCPSC Math Club**
+- 🔬 **Vice President — GCPSC Science Club**
+- 🥇 **1st Runner-Up — System Analysis & Design**
+- 🥇 **1st Runner-Up — Software Engineering Lab**
+- 🎓 **JSC GPA 5**
+- 🎓 **SSC GPA 5**
+- 🎓 **HSC GPA 5**
 
 ---
 
-## 🔥 GitHub Streak
+## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Afiroj313501&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Afiroj313501&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afiroj313501&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most-used languages"/>
+
+<br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Afiroj313501&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity"/>
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Afiroj313501&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Afiroj313501/Afiroj313501/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Afiroj313501/Afiroj313501/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Afiroj313501/Afiroj313501/output/github-contribution-grid-snake.svg"/>
+</picture>
+
+</div>
 
 ---
 
 ## 💡 Developer Philosophy
 
-<p align="center">
+<div align="center">
 
 > **Build with purpose. Learn continuously. Solve real problems.**
 
-</p>
+`Build → Learn → Experiment → Research → Improve → Repeat 🚀`
 
-```text
-Build → Learn → Experiment → Research → Improve → Repeat 🚀
-```
+</div>
 
 ---
 
 ## 🌐 Let's Connect
 
-<p align="center">
+<div align="center">
 
-  <a href="https://www.linkedin.com/in/abdullah-firoj-900697375">
-    <img src="https://img.shields.io/badge/LinkedIn-Abdullah%20Firoj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/Afiroj313501">
-    <img src="https://img.shields.io/badge/GitHub-Afiroj313501-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-  <a href="https://abdullahfiroj-dev.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-36BCF7?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-
-</p>
-
----
-
-<p align="center">
-
-💡 <b>Building today. Learning every day. Creating for tomorrow.</b>
-
-<br/>
-
-Software • AI • Research • Innovation
+<a href="https://github.com/Afiroj313501">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/abdullah-firoj-900697375">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://abdullahfiroj-dev.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
 
 <br/><br/>
 
-<i>Thanks for visiting my profile! ⭐</i>
+**Building today. Learning every day. Creating for tomorrow.**
 
-</p>
+Software · AI · Research · Innovation
+
+<br/>
+
+*Thanks for visiting my profile! If you find something useful, consider giving it a ⭐.*
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:6366F1,100:8B5CF6&height=120&section=footer" alt="Profile footer"/>
