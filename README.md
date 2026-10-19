@@ -552,8 +552,7 @@ The exact pipeline depends on the use case, but the goal remains the same: **use
 
 ## 🏆 Achievements & Leadership
 
-- 🧮 **Vice President — GCPSC Math Club**
-- 🔬 **Vice President — GCPSC Science Club**
+
 - 🥇 **1st Runner-Up — System Analysis & Design**
 - 🥇 **1st Runner-Up — Software Engineering Lab**
 - 🎓 **JSC GPA 5**
