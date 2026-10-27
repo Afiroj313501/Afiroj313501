@@ -37,37 +37,6 @@
 
 ## 👨‍💻 About Me
 
-```python
-class AbdullahFiroj:
-    def __init__(self):
-        self.role = "Software Developer & AI Engineer"
-        self.education = "B.Sc. in CSE — UIU"
-        self.major = "Data Science"
-        self.location = "Bangladesh 🇧🇩"
-
-        self.interests = [
-            "Full-Stack Development",
-            "Generative AI & RAG",
-            "Machine Learning",
-            "Agentic AI & MCP",
-            "Computer Vision",
-            "AI Research",
-        ]
-
-        self.philosophy = (
-            "Build useful software, "
-            "solve real problems, and "
-            "keep learning."
-        )
-
-    def currently_exploring(self):
-        return [
-            "Advanced RAG",
-            "AI Agents",
-            "Secure AI Applications",
-            "Sustainable AI Systems",
-        ]
-```
 
 - 🎓 **B.Sc. in Computer Science & Engineering** — United International University (UIU).
 - 📊 **Major:** Data Science.
